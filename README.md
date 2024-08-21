@@ -20,4 +20,4 @@ npm start
 
 ## Demo
 
-[Play Minesweeper](./minesweeper.gif)
+![Play Minesweeper](./minesweeper.gif)
