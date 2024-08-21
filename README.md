@@ -17,3 +17,7 @@ npm run build
 ```bash
 npm start
 ```
+
+## Demo
+
+[Play Minesweeper](./minesweeper.gif)
